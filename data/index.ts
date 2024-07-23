@@ -28,7 +28,7 @@ export const gridItems = [
   },
   {
     id: 3,
-    title: "GROW WITH US",
+    title: "Driving Digital Success with Innovative Marketing..",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -38,7 +38,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Driving Digital Success with Innovative Marketing..",
+    title: "GROW WITH US",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -102,6 +102,22 @@ export const projects = [
     iconLists: ["/ic1.jpg"],
     link: "/ui.apple.com",
   },
+  {
+    id: 4,
+    title: "Social Media Posters",
+    des: "Creating Eye-Catching Social Media Posters That Engage and Inspire Audiences...",
+    img: "/w1.jpeg",
+    iconLists: ["/ic1.jpg"],
+    link: "/ui.apple.com",
+  },
+  {
+    id: 4,
+    title: "Social Media Posters",
+    des: "Creating Eye-Catching Social Media Posters That Engage and Inspire Audiences...",
+    img: "/w2.jpeg",
+    iconLists: ["/ic1.jpg"],
+    link: "/ui.apple.com",
+  },
 ];
 
 export const testimonials = [
@@ -138,7 +154,28 @@ export const testimonials = [
   },
 ];
 
-
+export const companies = [
+  
+ 
+  {
+    id: 3,
+    name: "HOSTINGER",
+    img: "/a3.png",
+    
+  },
+  {
+    id: 4,
+    name: "stream",
+    img: "/a4.png",
+    
+  },
+  {
+    id: 5,
+    name: "docker.",
+    img: "/a5.png",
+    
+  },
+];
 
 export const workExperience = [
   {
